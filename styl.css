@@ -1,0 +1,21 @@
+header
+{
+    background-color: darkgreen;
+}
+h1
+{
+    color: white;
+}
+main
+{
+    background-color: crimson;
+}
+table
+{
+    border: 1px solid;
+    border-color: aqua;
+}
+th
+{
+    background-color: lightblue;
+}
